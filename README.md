@@ -4,7 +4,7 @@ Using LLM, create comprehensive unit tests for the provided C# function, coverin
 
 Class to test is in the template.
 
-It is recommended that you complete this task with the help of [EPAM Dial](https://chat.lab.epam.com/).
+
 
 
 # Description :
